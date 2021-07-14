@@ -5,7 +5,7 @@
           fetch="https://github.com/Lucifer-morning-star-96" />
 
   <!-- Trees -->
-        <project path="device/xiaomi/lavender" name="android_device_xiaomi_lavender" remote="Lucifer-morning-star-96" revision="main"/>
+        <project path="device/xiaomi/lavender" name="android_xiaomi_device_lavender" remote="Lucifer-morning-star-96" revision="11"/>
         <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="Lucifer-morning-star-96" revision="test" />
         <project path="vendor/xiaomi/lavender" name="corvus_xiaomi_vendor" remote="Lucifer-morning-star-96" revision="11" />
         <project path="vendor/XiaomiParts" name="corvus_xiaomiParts" remote="Lucifer-morning-star-96" revision="4.4-kernel" />
