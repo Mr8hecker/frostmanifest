@@ -9,5 +9,6 @@
         <project path="kernel/xiaomi/lavender" name="predator_xiaomi_lavender" remote="Lucifer-morning-star-96" revision="oldcam-eas" />
         <project path="vendor/xiaomi/lavender" name="lavender_xiaomi_vendor" remote="Lucifer-morning-star-96" revision="11" />
         <project path="vendor/XiaomiParts" name="corvus_xiaomiParts" remote="Lucifer-morning-star-96" revision="4.4-kernel" />
+        <project path="packages/apps/GCamGOPrebuilt" name="android_packages_apps_GCamGOPrebuilt" remote="Lucifer-morning-star-96" revision="arrow-11.0" />
 
 </manifest>
